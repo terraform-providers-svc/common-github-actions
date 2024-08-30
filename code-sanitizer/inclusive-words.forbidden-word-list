@@ -21,7 +21,6 @@ THESEWORDS=(
    "masters/slaves|noninclusive word|primaries/secondaries could be used instead"
    "master-slave|noninclusive word|primary-secondary could be used instead"
    "masters-slaves|noninclusive word|primaries-secondaries could be used instead"
-   "master|noninclusive word|primary could be used instead"
    "masters|noninclusive word|primaries could be used instead"
    "slave|noninclusive word|secondary could be used instead"
    "slaves|noninclusive word|secondaries could be used instead"
